@@ -16,6 +16,6 @@ public class AzureHelloWorldApplication {
 
     @GetMapping("/")
     public String getHome() {
-        return "<h1>Hello from Azure Hello World - Spring boot app!";
+        return "<h1>Hello from Azure Hello World - Spring boot app -v2!";
     }
 }
